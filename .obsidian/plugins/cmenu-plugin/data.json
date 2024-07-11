@@ -1,0 +1,148 @@
+{
+  "aestheticStyle": "default",
+  "positionStyle": "following",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-checklist-status",
+      "name": "cMenu: Toggle checklist status",
+      "icon": "checkbox-glyph"
+    },
+    {
+      "id": "Enhanced-editing:internal-link",
+      "name": "ZH增强编辑: [[链接]]语法",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "Z"
+        }
+      ],
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "Enhanced-editing:paste-form",
+      "name": "ZH增强编辑: 智能粘贴",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "V"
+        }
+      ],
+      "icon": "paste"
+    },
+    {
+      "id": "Enhanced-editing:common-text",
+      "name": "ZH增强编辑: 转换无语法文本",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "Z"
+        }
+      ],
+      "icon": "remix-CharacterRecognitionLine"
+    },
+    {
+      "id": "painter:paint-b",
+      "name": "Painter: b",
+      "icon": "painter-icon-b"
+    },
+    {
+      "id": "painter:paint-r",
+      "name": "Painter: r",
+      "icon": "painter-icon-r"
+    },
+    {
+      "id": "painter:paint-g",
+      "name": "Painter: g",
+      "icon": "painter-icon-g"
+    },
+    {
+      "id": "painter:paint-p",
+      "name": "Painter: p",
+      "icon": "painter-icon-p"
+    },
+    {
+      "id": "highlightr-plugin:Orange",
+      "name": "Highlightr: Orange",
+      "icon": "highlightr-pen-orange"
+    },
+    {
+      "id": "highlightr-plugin:Yellow",
+      "name": "Highlightr: Yellow",
+      "icon": "highlightr-pen-yellow"
+    },
+    {
+      "id": "highlightr-plugin:Purple",
+      "name": "Highlightr: Purple",
+      "icon": "highlightr-pen-purple"
+    },
+    {
+      "id": "painter:remove-highlight",
+      "name": "Painter: Clear",
+      "icon": "eraser"
+    },
+    {
+      "id": "highlightr-plugin:Yellow",
+      "name": "Highlightr: Yellow",
+      "icon": "highlightr-pen-yellow"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": false,
+  "cMenuBottomValue": 6.5,
+  "cMenuNumRows": 13,
+  "cMenuXBottomValue": 17.25
+}

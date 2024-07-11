@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b9e1187f4946fca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4fc29effc89a4e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af859414c5a5e6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FB_LLC/02. PMP_LLC 特性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ef21f8f2972e000",
+    "type": "split",
+    "children": [
+      {
+        "id": "5755cfd2a17fce35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d02025e1d1a1d6ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c44181857a8c58c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d9b6333a0392790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "91d8eaede8b869fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ce1037d7a64626b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae1139cfa3ea7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cde9e959749823e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08774c3fa867e495",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FB_LLC/02. PMP_LLC 特性.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b3cb72bd872bff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FB_LLC/02. PMP_LLC 特性.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "874c639a83338b12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FB_LLC/02. PMP_LLC 特性.md"
+              }
+            }
+          },
+          {
+            "id": "869c3e72f2804246",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "af859414c5a5e6cd",
+  "lastOpenFiles": [
+    "FB_LLC/01. PMP origin code.md",
+    "Pasted image 20240710210602.png",
+    "FB_LLC/00. UCD3138 简介.md",
+    "FB_LLC/图片/1. 软件结构.png",
+    "FB_LLC/04. 中断.md",
+    "Pasted image 20240710205713.png",
+    "FB_LLC/06. F-EADC.md",
+    "FB_LLC/05. PMBus.md",
+    "FB_LLC/12. PMBus.md",
+    "FB_LLC/08. DPWM.md",
+    "FB_LLC/03. CMD文件.md",
+    "FB_LLC/02. PMP_LLC 特性.md",
+    "FB_LLC/图片/0. FB_LLC_Draw.md",
+    "Pasted image 20240709215148.png",
+    "FB_LLC/11. Fault.md",
+    "FB_LLC/10. ADC.md",
+    "FB_LLC/09. Loop Mux.md",
+    "FB_LLC/07. Filter-PID.md",
+    "WorkTop/工作台/Introduction.md",
+    "WorkTop/工作台/Untitled.md",
+    "WorkTop/工作台/Week.md",
+    "WorkTop/工作台/Mouth.md",
+    "WorkTop/思考/职业规划.md",
+    "WorkTop/思考/成长借鉴.md",
+    "WorkTop/思考/实战求职.md",
+    "WorkTop/思考/Review.md",
+    "Excalidraw/Drawing 2024-07-09 14.13.05.excalidraw.md",
+    "Excalidraw",
+    "FB_LLC/13. 杂项.md",
+    "Inbox/Timer.md",
+    "Pasted image 20240709105345.png",
+    "Pasted image 20240709105322.png",
+    "Pasted image 20240709104156.png",
+    "1. WorkTop/工具/开发环境",
+    "WorkTop/思考",
+    "WorkTop/方法",
+    "WorkTop/工具",
+    "WorkTop/工作台",
+    "FB_LLC/图片/未命名 1",
+    "未命名.canvas",
+    "Untitled",
+    "工作台/Archive",
+    "工作台/工作台",
+    "FB_LLC/图片/2. 状态转换.png",
+    "Pasted image 20240703210111.png",
+    "FB_LLC/0. FB_LLC_Draw.png"
+  ]
+}
